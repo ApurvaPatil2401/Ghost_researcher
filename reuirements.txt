@@ -1,0 +1,6 @@
+crewai==0.100.0
+langchain-groq
+tavily-python
+streamlit
+python-dotenv
+litellm
