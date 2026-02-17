@@ -38,7 +38,7 @@ if st.button("Launch Agent Crew"):
     
     with col2:
         st.markdown("### 📊 Metadata")
-        st.info(f"**Model:** Llama-3.3-70b\n\n**Speed:** Ultra-fast (Groq LPU)")
+        st.info("**Model:** Llama-3.3-70b\n\n**Speed:** Ultra-fast (Groq LPU)")
         
         # Add the Download Button we discussed
         st.download_button(
